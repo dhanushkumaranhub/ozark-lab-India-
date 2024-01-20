@@ -2,10 +2,6 @@
 
 
 
-/**
- * add event on element
- */
-
 const addEventOnElement = function(element, type, listener) {
     if (element.length > 1) {
         for (let i = 0; i < element.length; i++) {
@@ -62,9 +58,6 @@ window.addEventListener("scroll", function() {
 
 
 
-/**
- * hero tab button
- */
 
 const tabBtns = document.querySelectorAll("[data-tab-btn]");
 
