@@ -1,4 +1,4 @@
-# ozark-lab-India-
+# ozark-lab-India-assignment
 
 //portfolio of real estate  website
 
